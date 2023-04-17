@@ -38,7 +38,7 @@ console.log(students);
 //unshift adds an item to the beginning
 students.unshift('Zeke');
 console.log(students);
-students.unshift('Christina', 'Autumn', 'Waasna');
+students.unshift('Kylene', 'Autumn', 'Waasna');
 console.log(students);
 
 //length of array = number of items in it
