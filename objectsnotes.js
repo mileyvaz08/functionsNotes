@@ -58,7 +58,7 @@ console.log(dog);
 
 let friend = {
     friendName: 'Insect',
-    height: 5.9,
+    height: 5.10,
     hairType: 'straight',
     bodyType: 'skinny',
     funny: true
