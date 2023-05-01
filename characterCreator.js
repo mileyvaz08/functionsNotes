@@ -47,7 +47,15 @@ function createChar(character, list){
     character.wisdom = rollStat(diceRolled);
     console.log("Rolling CHA")
     character.charisma = rollStat(diceRolled);
+    console.log("Rolling CHA")
+    character.luck = rollStat(diceRolled);
+    console.log("Rolling CHA")
+    character.speed = rollStat(diceRolled);
+    console.log("Rolling CHA")
+    character.stealth = rollStat(diceRolled);
     console.log(character);
+    console.log("Rolling CHA")
+
 }
 function displayChar(char){
     console.log('-----------------------')
